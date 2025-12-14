@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "今すぐアナタを愛したい",
+  "base_artist": "ウルトラ寿司ふぁいやー",
+  "createdAt": "2025-12-14T11:27:08.329609Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今すぐアナタを愛したい",
+      "artist": "ウルトラ寿司ふぁいやー",
+      "has_synced": false,
+      "path": "select/pl_01_今すぐアナタを愛したい_ウルトラ寿司ふぁいやー.txt"
+    }
+  ]
+}
